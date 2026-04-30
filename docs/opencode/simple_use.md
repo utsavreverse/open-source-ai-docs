@@ -106,6 +106,6 @@ Giving a good prompt is a very fundamental thing if you want the model to work e
 This is the result that I got after running this prompt:
 
 <video width="100%" controls>
-  <source src="../assets/portfolio-site.mp4" type="video/mp4">
+  <source src="https://ik.imagekit.io/utsavreverse/portfolio-site.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
