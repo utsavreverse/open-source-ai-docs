@@ -56,7 +56,11 @@ One more thing that might attract you (that attracted me) is to see that how muc
 Many of the best open source models are available in the [[Nvidia/Introduction|NVIDIA NIM]], you can use it directly from there but there are some constraint to keep in mind while using those models
 
 - You need to be as specific as possible, the reason for that is, they don't generally have any "pre-uploaded" system prompts unlike [other providers](https://thoughts.jock.pl/p/claude-code-source-leak-what-to-learn-ai-agents-2026).
-- You need to identify that when to use which models, these are some models that will give consistent output:
+- You need to identify that when to use which models, these are some models models with proven benchmarks:
+
+!!! note
+
+    Use **Gemma 4 31B** as a default model because it tends to give consistent output in coding related tasks.
 
 ##### MiniMax Family (Excellent for coding)
 

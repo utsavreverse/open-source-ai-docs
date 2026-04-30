@@ -33,6 +33,10 @@ cd Documents/ai-learning/
 - You can select the models in multiple ways, the way that I like is typing the `/models`
 - Then you can select your desirable model from the list of the models, for this example I'll use `MiniMax M2.5` model from NVIDIA
 
+!!! note
+
+    Use **Gemma 4 31B** as a default model because it tends to give consistent output in coding related tasks.
+
 <video width="100%" controls>
   <source src="../assets/selecting-models.mp4" type="video/mp4">
   Your browser does not support the video tag.
