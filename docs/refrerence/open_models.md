@@ -69,7 +69,7 @@ Many of the best open source models are available in the [[Nvidia/Introduction|N
 
 ##### Kimi Family (Excellent for coding/ general tasks)
 
-- Kimi K2.7
+- Kimi K2.6
 - Kimi K2.5
 
 ##### GLM Family (Excellent for coding/ general tasks)
