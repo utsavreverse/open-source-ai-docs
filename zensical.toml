@@ -34,7 +34,7 @@ site_author = "Utsav Hadiya"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright, © All Rights Reserved, Reversebits Tech LLP
+Copyright, © All Rights Reserved, **reverseBits Tech LLP**
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
