@@ -34,7 +34,7 @@ site_author = "Utsav Hadiya"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright, <b><a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a></b>, Utsav Hadiya
+Copyright, © All Rights Reserved, Reversebits Tech LLP
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -269,7 +269,7 @@ features = [
 # option in the "theme" subsection. The logo must be a relative path to a file
 # in your "docs_dir", e.g., to use `docs/assets/logo.png` you would set:
 # ----------------------------------------------------------------------------
-#logo = "assets/logo.png"
+logo = "images/logo.png"
 
 # ----------------------------------------------------------------------------
 # If you don't have a dedicated project logo, you can use a built-in icon from
@@ -280,8 +280,8 @@ features = [
 # - https://zensical.org/docs/setup/logo-and-icons
 # - https://github.com/zensical/ui/tree/master/dist/.icons
 # ----------------------------------------------------------------------------
-[project.theme.icon]
-logo = "lucide/brackets"
+#[project.theme.icon]
+#logo = "lucide/brackets"
 
 # ----------------------------------------------------------------------------
 # In the "font" subsection you can configure the fonts used. By default, fonts
